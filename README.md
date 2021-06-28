@@ -1,5 +1,5 @@
 # AbstractFactoryPattern
-This is a repository for explaining about the Abstract Factory Pattern
+This is a repository for explaining about the Abstract Factory Pattern.
 
 # Definition
 
@@ -8,4 +8,4 @@ This is a repository for explaining about the Abstract Factory Pattern
 
 
 # Structure
-For structure and example please view the abstractFactory_diagram.jpg and abstractFactory_code.jpg file
+For structure and example please view the abstractFactory_diagram.jpg and abstractFactory_code.jpg file.
